@@ -11,3 +11,5 @@ repository for hello-world
 >3. third
 >'some code for analysis'
 >-----------
+*this is some new text to update and edit the readme.md* #FILE#
+and a **link** [jump to website](https://www.codetechnics.com/)
